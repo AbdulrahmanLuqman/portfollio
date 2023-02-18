@@ -1,0 +1,103 @@
+#laporsh{
+    font-size: 2rem;
+    margin-left: 4rem;
+}
+.co{
+    text-align: center;
+}
+#header a{
+    text-decoration: none;
+    color: black;
+    font-size: 1.2rem;
+    font-weight: bolder;
+}
+#header{
+    margin-left: 38rem;
+    margin-top: -3.5rem;
+}
+#header li{
+    display: inline;
+    margin-left: 3rem;
+}
+#header a:active{
+    text-decoration: underline;
+    color: rgb(206, 65, 65);
+}
+
+#header a:hover{
+    font-family: harrington;
+}
+
+/* #header a:visited{
+    color: blue;
+} */
+form input{
+    width: 20rem;
+    height: 30px;
+    outline: none;
+     border: none;
+    display: block;
+    margin-left: 5rem;
+    margin-top: 2rem;
+}
+textarea{
+    margin-top: 2rem;
+    margin-left: 5rem;
+    outline: none;
+    border: none;
+}
+#background{
+    width: 100%;
+    height: 29rem;
+    /* position: fixed; */
+    background-color: rgb(207, 201, 201);
+}
+#sub{
+   width: 60px;
+   border-radius: 3rem;
+   border: none;
+   background-color:rgb(244, 77, 77) ;
+   color: white;
+}
+footer{
+    width: 100%;
+    height: 20rem;
+    background-color:rgb(244, 77, 77) ;
+    margin-top: -3rem;
+    
+}
+.get{
+    font-size: 3rem;
+}
+#foot{
+    color: white;
+    padding-left: 6rem;
+}
+.hey{
+    font-size: 2rem;
+}
+.lor{
+    font-size: 1.2rem;
+}
+#aside{
+    width: 20rem;
+    height: 25rem;
+    background-color: white;
+    margin-left: 50rem;
+    margin-top: -33rem;
+    text-align: center;
+} 
+.call{
+    font-weight: bolder;
+    font-size: 1.5rem;
+}
+.scroll{
+    font-size: 2rem;
+    text-decoration: none;
+    color: white;
+}
+.scr{
+    position: fixed;
+    bottom: 15px;
+    left: 70rem;
+}
